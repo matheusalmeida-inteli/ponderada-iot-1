@@ -95,7 +95,7 @@ Curva esperada: V_C(t) = 5 · (1 − e^(−t / 500 ms)). A curva teórica aparec
 | 60 | 2.500 | 4,922 | 4,966 | -0,044 |
 
 ## 4. Confrontar
-![Curva teórica e pontos experimentais](grafico-rc.png)
+![Curva teórica e pontos experimentais](grafico-circuito-rc.png)
 
 | | τ |
 |---|---|
